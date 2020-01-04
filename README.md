@@ -1,6 +1,9 @@
 # React Countries
 University of Passo Fundo SPA class project that consume the `restcountries.eu/rest/v2` API.
 
+## Application running
+https://spa-react-countries.firebaseapp.com/
+
 ## Commands
 
 yarn add axios react-router-dom redux-localstore styled-components styled-media-query react-redux redux
